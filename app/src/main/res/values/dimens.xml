@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimes_padding">150dp</dimen>
+    <dimen name="dimens_margin">300dp</dimen>
+    <dimen name="four_dp">24dp</dimen>
+    <dimen name="eight_teen">18dp</dimen>
+    <dimen name="fly">36dp</dimen>
+</resources>
